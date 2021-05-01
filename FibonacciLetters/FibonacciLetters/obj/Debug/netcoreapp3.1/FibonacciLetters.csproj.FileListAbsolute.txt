@@ -1,0 +1,13 @@
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.exe
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.deps.json
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.runtimeconfig.json
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.runtimeconfig.dev.json
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.dll
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\bin\Debug\netcoreapp3.1\FibonacciLetters.pdb
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.csprojAssemblyReference.cache
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.AssemblyInfoInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.AssemblyInfo.cs
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.csproj.CoreCompileInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.dll
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.pdb
+C:\Users\Sleepy\Documents\C# Repository\FibonacciLetters\FibonacciLetters\obj\Debug\netcoreapp3.1\FibonacciLetters.genruntimeconfig.cache
